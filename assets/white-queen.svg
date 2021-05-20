@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 170 340" overflow="visible" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1" transform="matrix(1, 0, 0, 1, -5.511222, -14.413965)">
+    <g transform="matrix(1, 0, 0, 1, 7.630923, 12.294264)">
+      <rect width="170" height="340" fill="#FFFFFF"/>
+      <path clip-rule="evenodd" d="m155.5 330.5h-140c-2.761 0-5-2.238-5-5v-10c0-2.762 2.239-5 5-5h140c2.762 0 5 2.238 5 5v10c0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m155.5 330.5h-140c-2.761 0-5-2.238-5-5v-10c0-2.762 2.239-5 5-5h140c2.762 0 5 2.238 5 5v10c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m145.5 310.5h-120c-2.761 0-5-2.238-5-5v-20c0-2.762 2.239-5 5-5h120c2.762 0 5 2.238 5 5v20c0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m145.5 310.5h-120c-2.761 0-5-2.238-5-5v-20c0-2.762 2.239-5 5-5h120c2.762 0 5 2.238 5 5v20c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m135.5 280.5h-100c-2.761 0-5-2.238-5-5s2.239-5 5-5h100c2.762 0 5 2.238 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255); stroke-dashoffset: 1px;"/>
+      <path stroke-linejoin="round" d="m135.5 280.5h-100c-2.761 0-5-2.238-5-5v0c0-2.762 2.239-5 5-5h100c2.762 0 5 2.238 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m124.96 280.5h-80c-2.761 0-4.76-2.238-4.464-5l13.929-130c0.296-2.761 2.774-5 5.536-5h50c2.762 0 5.24 2.239 5.536 5l13.929 130c0.29 2.76-1.7 5-4.47 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m124.96 280.5h-80c-2.761 0-4.76-2.238-4.464-5l13.929-130c0.296-2.761 2.774-5 5.536-5h50c2.762 0 5.24 2.239 5.536 5l13.929 130c0.29 2.76-1.7 5-4.47 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m135.5 150.5h-100c-2.761 0-5-2.239-5-5v-10c0-2.761 2.239-5 5-5h100c2.762 0 5 2.239 5 5v10c0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m135.5 150.5h-100c-2.761 0-5-2.239-5-5v-10c0-2.761 2.239-5 5-5h100c2.762 0 5 2.239 5 5v10c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m125.5 130.5h-80c-2.761 0-5-2.239-5-5s2.239-5 5-5h80c2.762 0 5 2.239 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m125.5 130.5h-80c-2.761 0-5-2.239-5-5v0c0-2.761 2.239-5 5-5h80c2.762 0 5 2.239 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m115.5 120.5h-60c-2.761 0-5-2.239-5-5s2.239-5 5-5h60c2.762 0 5 2.239 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m115.5 120.5h-60c-2.761 0-5-2.239-5-5v0c0-2.761 2.239-5 5-5h60c2.762 0 5 2.239 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m115.5 110.5h-60c-2.761 0-5-2.239-5-5s2.239-5 5-5h60c2.762 0 5 2.239 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m115.5 110.5h-60c-2.761 0-5-2.239-5-5v0c0-2.761 2.239-5 5-5h60c2.762 0 5 2.239 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m95.5 40.5h-20c-2.761 0-5-2.239-5-5v-20c0-2.761 2.239-5 5-5h20c2.762 0 5 2.239 5 5v20c0 2.761-2.238 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m95.5 40.5h-20c-2.761 0-5-2.239-5-5v-20c0-2.761 2.239-5 5-5h20c2.762 0 5 2.239 5 5v20c0 2.761-2.238 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m57.167 40.5h-13.334c-1.841 0-3.333-2.238-3.333-5v-10c0-2.761 1.492-5 3.333-5h13.333c1.841 0 3.333 2.239 3.333 5v10c0.001 2.762-1.491 5-3.332 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m57.167 40.5h-13.334c-1.841 0-3.333-2.238-3.333-5v-10c0-2.761 1.492-5 3.333-5h13.333c1.841 0 3.333 2.239 3.333 5v10c0.001 2.762-1.491 5-3.332 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m127.17 40.5h-13.334c-1.841 0-3.333-2.238-3.333-5v-10c0-2.761 1.492-5 3.333-5h13.334c1.841 0 3.333 2.239 3.333 5v10c0 2.762-1.49 5-3.33 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m127.17 40.5h-13.334c-1.841 0-3.333-2.238-3.333-5v-10c0-2.761 1.492-5 3.333-5h13.334c1.841 0 3.333 2.239 3.333 5v10c0 2.762-1.49 5-3.33 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m114.62 100.5h-58.238c-2.68 0-5.577-2.239-6.471-5l-19.411-60c-0.894-2.762 0.555-5 3.235-5h103.53c2.681 0 4.129 2.238 3.235 5l-19.412 60c-0.89 2.761-3.79 5-6.47 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m114.62 100.5h-58.238c-2.68 0-5.577-2.239-6.471-5l-19.411-60c-0.894-2.762 0.555-5 3.235-5h103.53c2.681 0 4.129 2.238 3.235 5l-19.412 60c-0.89 2.761-3.79 5-6.47 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+    </g>
+  </g>
+</svg>

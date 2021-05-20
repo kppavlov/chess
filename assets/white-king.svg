@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 170 400" overflow="visible" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1">
+    <g transform="matrix(1, 0, 0, 1, -1.496259, 4.488777)">
+      <rect width="170" height="400" style="fill: rgba(255, 255, 255, 0);"/>
+      <path clip-rule="evenodd" d="m155.5 390.5h-140c-2.761 0-5-2.238-5-5v-10c0-2.762 2.239-5 5-5h140c2.762 0 5 2.238 5 5v10c0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m155.5 390.5h-140c-2.761 0-5-2.238-5-5v-10c0-2.762 2.239-5 5-5h140c2.762 0 5 2.238 5 5v10c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m145.5 370.5h-120c-2.761 0-5-2.238-5-5v-20c0-2.762 2.239-5 5-5h120c2.762 0 5 2.238 5 5v20c0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m145.5 370.5h-120c-2.761 0-5-2.238-5-5v-20c0-2.762 2.239-5 5-5h120c2.762 0 5 2.238 5 5v20c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m135.5 340.5h-100c-2.761 0-5-2.238-5-5s2.239-5 5-5h100c2.762 0 5 2.238 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m135.5 340.5h-100c-2.761 0-5-2.238-5-5v0c0-2.762 2.239-5 5-5h100c2.762 0 5 2.238 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m124.96 340.5h-80c-2.761 0-4.76-2.238-4.464-5l13.929-130c0.296-2.762 2.774-5 5.536-5h50c2.762 0 5.24 2.238 5.536 5l13.929 130c0.29 2.76-1.7 5-4.47 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m124.96 340.5h-80c-2.761 0-4.76-2.238-4.464-5l13.929-130c0.296-2.762 2.774-5 5.536-5h50c2.762 0 5.24 2.238 5.536 5l13.929 130c0.29 2.76-1.7 5-4.47 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m135.5 210.5h-100c-2.761 0-5-2.238-5-5v-10c0-2.761 2.239-5 5-5h100c2.762 0 5 2.239 5 5v10c0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m135.5 210.5h-100c-2.761 0-5-2.238-5-5v-10c0-2.761 2.239-5 5-5h100c2.762 0 5 2.239 5 5v10c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m125.5 190.5h-80c-2.761 0-5-2.239-5-5s2.239-5 5-5h80c2.762 0 5 2.239 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m125.5 190.5h-80c-2.761 0-5-2.239-5-5v0c0-2.761 2.239-5 5-5h80c2.762 0 5 2.239 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m115.5 180.5h-60c-2.761 0-5-2.239-5-5s2.239-5 5-5h60c2.762 0 5 2.239 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m115.5 180.5h-60c-2.761 0-5-2.239-5-5v0c0-2.761 2.239-5 5-5h60c2.762 0 5 2.239 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m115.5 170.5h-60c-2.761 0-5-2.239-5-5s2.239-5 5-5h60c2.762 0 5 2.239 5 5 0 2.76-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m115.5 170.5h-60c-2.761 0-5-2.239-5-5v0c0-2.761 2.239-5 5-5h60c2.762 0 5 2.239 5 5v0c0 2.76-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m95.5 100.5h-20c-2.761 0-5-2.239-5-5v-80c0-2.761 2.239-5 5-5h20c2.762 0 5 2.239 5 5v80c0 2.761-2.238 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m95.5 100.5h-20c-2.761 0-5-2.239-5-5v-80c0-2.762 2.239-5 5-5h20c2.762 0 5 2.238 5 5v80c0 2.761-2.238 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m125.5 70.5h-80c-2.761 0-5-2.239-5-5v-20c0-2.761 2.239-5 5-5h80c2.762 0 5 2.239 5 5v20c0 2.761-2.24 5-5 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m125.5 70.5h-80c-2.761 0-5-2.239-5-5v-20c0-2.761 2.239-5 5-5h80c2.762 0 5 2.239 5 5v20c0 2.761-2.24 5-5 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+      <path clip-rule="evenodd" d="m114.62 160.5h-58.238c-2.68 0-5.577-2.239-6.471-5l-19.411-60c-0.894-2.761 0.555-5 3.235-5h103.53c2.681 0 4.129 2.239 3.235 5l-19.412 60c-0.89 2.76-3.79 5-6.47 5z" fill-rule="evenodd" style="fill: rgb(255, 255, 255);"/>
+      <path stroke-linejoin="round" d="m114.62 160.5h-58.238c-2.68 0-5.577-2.239-6.471-5l-19.411-60c-0.894-2.761 0.555-5 3.235-5h103.53c2.681 0 4.129 2.239 3.235 5l-19.412 60c-0.89 2.76-3.79 5-6.47 5v0zm0 0" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" fill="none" style="stroke-width: 2px;"/>
+    </g>
+  </g>
+</svg>
