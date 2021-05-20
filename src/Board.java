@@ -1,5 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
+import java.io.File;
 
 public class Board {
     private JPanel panel;
@@ -28,7 +29,8 @@ public class Board {
     void writeBoard() {
         for (String[] field : fields
         ) {
-            Field button = new Field( new ImageIcon("C:\\Users\\kaloy\\IntelliJIDEAProjects\\MyChess\\assets\\black-rook.png"));
+            File directory = new File("./");
+            Field button = new Field( new ImageIcon(directory.getAbsolutePath() + "\\assets\\black-rook.png"));
             button.addActionListener(button);
             Color white = new Color(255, 255, 255);
             Color black = new Color(0, 0, 0);
